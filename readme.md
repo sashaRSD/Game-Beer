@@ -1,5 +1,5 @@
 <center><h1>
-Игра в Пиво
+Игра "BeerMan"
 </h1></center>
 
 ---
